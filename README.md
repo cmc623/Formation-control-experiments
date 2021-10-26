@@ -1,13 +1,25 @@
 # Formation-control-experiments
 
-### Case study
-<img src="https://github.com/cmc623/Formation-control-with-lane-preference/blob/main/case_study.gif" width="1000" />
+### Lane number changing from 1 to 3
+<img src="https://github.com/cmc623/Formation-control-experiments/blob/main/lane13.gif" width="1000" />
 
-### Simulation without formation control
-<img src="https://github.com/cmc623/Formation-control-with-lane-preference/blob/main/result_REF.gif" width="1000" />
+### Lane number changing from 3 to 2
+<img src="https://github.com/cmc623/Formation-control-experiments/blob/main/lane32.gif" width="1000" />
 
-### Simulation with formation control
-<img src="https://github.com/cmc623/Formation-control-with-lane-preference/blob/main/result_FRC.gif" width="1000" />
+### Lane number changing from 2 to 1
+<img src="https://github.com/cmc623/Formation-control-experiments/blob/main/lane32.gif" width="1000" />
+
+### On-ramp merging
+<img src="https://github.com/cmc623/Formation-control-experiments/blob/main/rampmerge.gif" width="1000" />
+
+### Off-ramp leaving
+<img src="https://github.com/cmc623/Formation-control-experiments/blob/main/rampleave.gif" width="1000" />
+
+### Formation switching
+<img src="https://github.com/cmc623/Formation-control-experiments/blob/main/switching.gif" width="1000" />
+
+### Emergency leaving
+<img src="https://github.com/cmc623/Formation-control-experiments/blob/main/emergency.gif" width="1000" />
 
 
 For further details, please refer to:
