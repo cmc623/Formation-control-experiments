@@ -7,7 +7,7 @@
 <img src="https://github.com/cmc623/Formation-control-experiments/blob/main/lane32.gif" width="1000" />
 
 ### Lane number changing from 2 to 1
-<img src="https://github.com/cmc623/Formation-control-experiments/blob/main/lane32.gif" width="1000" />
+<img src="https://github.com/cmc623/Formation-control-experiments/blob/main/lane21.gif" width="1000" />
 
 ### On-ramp merging
 <img src="https://github.com/cmc623/Formation-control-experiments/blob/main/rampmerge.gif" width="1000" />
